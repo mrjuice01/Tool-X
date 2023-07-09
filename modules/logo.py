@@ -21,7 +21,7 @@ class logo:
 
 
 {cyan} =============================================
-{yellow}|          Install Best Hacking Tool          |
+{yellow}|          By Mr Juice          |
 {cyan} ============================================={nc}''')
 
   @classmethod
